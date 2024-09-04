@@ -1,0 +1,4 @@
+name: install-plucky
+type: shell
+commands:
+  - /tmp/install-plucky
