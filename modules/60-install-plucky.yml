@@ -1,4 +1,5 @@
 name: install-plucky
 type: shell
 commands:
-  - /tmp/install-plucky
+  - /install-plucky
+  - rm -rf /install-plucky

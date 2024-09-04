@@ -1,4 +1,5 @@
 name: install-debs
 type: shell
 commands:
-  - bash /tmp/deb-pkgs/install-debs.sh
+  - bash /deb-pkgs/install-debs.sh
+  - rm -rf /deb-pkgs
