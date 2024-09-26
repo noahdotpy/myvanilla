@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  CUSTOM_IMAGE_NAME: vanilla-desktop
+  CUSTOM_IMAGE_NAME: vanilla-gnome
   BUILDX_NO_DEFAULT_ATTESTATIONS: 1
 
 jobs:
